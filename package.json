@@ -1,0 +1,35 @@
+{
+  "name": "nuxt-note-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "typecheck": "nuxt typecheck"
+  },
+  "dependencies": {
+    "@iconify-json/lucide": "^1.2.93",
+    "@iconify-json/simple-icons": "^1.2.71",
+    "@nuxt/fonts": "0.14.0",
+    "@nuxt/hints": "1.0.0-alpha.7",
+    "@nuxt/icon": "2.2.1",
+    "@nuxt/image": "2.0.0",
+    "@nuxt/ui": "^4.4.0",
+    "@types/better-sqlite3": "^7.6.13",
+    "@vueuse/nuxt": "14.2.1",
+    "better-sqlite3": "^12.6.2",
+    "nuxt": "^4.3.1",
+    "tailwindcss": "^4.2.0"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.15.1",
+    "@vue/runtime-dom": "^3.5.28",
+    "eslint": "^10.0.1",
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.2.5"
+  },
+  "packageManager": "pnpm@10.30.3+sha512.c961d1e0a2d8e354ecaa5166b822516668b7f44cb5bd95122d590dd81922f606f5473b6d23ec4a5be05e7fcd18e8488d47d978bbe981872f1145d06e9a740017"
+}
