@@ -1,3 +1,7 @@
+## App Preview
+
+![Nuxt Notes App Screenshot](public/note-app.png)
+
 # Nuxt Notes App
 
 A simple full-stack **Notes application** built with **Nuxt 4**, **Nuxt UI**, and **SQLite**.
