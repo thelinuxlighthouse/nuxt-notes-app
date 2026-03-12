@@ -49,7 +49,7 @@ useSeoMeta({
               class="hover:text-pink-500 size-6 flex"
             />
           </ULink>
-          <ColorModeButton />
+          <UColorModeButton />
         </div>
       </template>
     </UHeader>
